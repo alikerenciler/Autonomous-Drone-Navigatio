@@ -8,5 +8,5 @@ The repositor includes:
 -  Travel Salesman Script
 -  Position Orianted Visual Servoing Script
 
-These scripts are used in a project called "" and you can reach youtube link of the project implemenatation in ROS Gazebo simulation environment.
+These scripts are used in a project called "" and you can reach youtube link of the project implementation in ROS Gazebo simulation environment.
 - Youtube link of "" : 
