@@ -6,6 +6,7 @@ Main requirement of the scripts are global points (x,y,z,yaw) in a list. The pat
 
 The repositor includes:
 -  Travel Salesman Script
+-  Visual Servoing Geometry Image
 -  Position Orianted Visual Servoing Script
 
 These scripts are used in a project called "" and you can reach youtube link of the project implementation in ROS Gazebo simulation environment.
