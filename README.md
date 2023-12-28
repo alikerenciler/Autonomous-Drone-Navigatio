@@ -10,4 +10,4 @@ The repositor includes:
 -  Position Orianted Visual Servoing Script
 
 These scripts are used in a project called "" and you can reach youtube link of the project implementation in ROS Gazebo simulation environment.
-- Youtube link of the automation simulation "https://www.youtube.com/watch?v=VJAnNdIeeBA" : 
+- Youtube link of the automation in simulation "https://www.youtube.com/watch?v=VJAnNdIeeBA" : 
